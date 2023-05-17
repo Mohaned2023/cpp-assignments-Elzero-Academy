@@ -1,3 +1,3 @@
 # CPP Assignments Elzero Academy.
 
-link of assignment in Zero website : https://elzero.org/category/assignments/cpp-assignments/
+link the assignment in Zero website : https://elzero.org/category/assignments/cpp-assignments/
