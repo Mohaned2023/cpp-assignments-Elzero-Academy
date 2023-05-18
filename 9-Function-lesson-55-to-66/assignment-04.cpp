@@ -2,7 +2,7 @@
 using namespace std;
 
 // Your Function Here
-double calculation(double num1=0 , double num2=0 , double num3=0 ) {
+double calculation(double num1=0 , double num2=50 , double num3=150 ) {
     return num1 + num2 + num3 ;
 }
 
